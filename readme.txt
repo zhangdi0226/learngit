@@ -1,3 +1,2 @@
-爱谁谁
-水电费速度
-是的
+Git is a distributed version control system.
+Git is free software.
